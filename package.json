@@ -1,6 +1,6 @@
 {
-  "name": "project04-mk-currency_converter",
-  "version": "3.2.2",
+  "name": "mehakkhan-currency_converter",
+  "version": "4.3.3",
   "description": "currency converter by using typescript,node js, chalk and inquirer",
   "main": "index.js",
   "type": "module",
