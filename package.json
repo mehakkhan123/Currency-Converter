@@ -1,7 +1,7 @@
 {
   "name": "project04-currency_converter",
   "version": "1.0.0",
-  "description": "",
+  "description": "currency converter by using typescript,node js, chalk and inquirer",
   "main": "index.js",
   "type": "module",
   "bin": "index.js",
